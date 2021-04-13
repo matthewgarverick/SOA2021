@@ -24,6 +24,7 @@ body {
     color: white;
 }
 
+
 .bgvideo h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
@@ -45,6 +46,12 @@ body {
     margin-top: -75px;
 }
 
+
+
+.biovideo {
+    margin-left: 175px;
+}
+
 .landingvideo p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
@@ -54,86 +61,294 @@ body {
     margin-top: -90px;
 }
 
-.firstlandingstory p {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 100;
-    font-size: 18px;
-    color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
-    padding-top: 35px;
-}
 
-.has-dropcap:first-letter {
-    font-family: 'Lust', serif;
-    font-size: 72px;
-    color: #bd6c29;
-    line-height: 0.65;
-    margin: 0.1em 0.1em 0.2em 0;
-    float: left;
+.firstlandingstory {
+    width: 100%;
+    height: 1000px;
+    background-color: #1C1C1C;
 
 }
 
-.firstlandingstory2 p {
+.narrativelandingstory {
+    width: 100%;
+    height: 1335px;
+    background-color: #1C1C1C;
+}
+
+.narrativepicturecaption h1 {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 100;
-    font-size: 18px;
-    color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
+    font-size: 16px;
+    margin-left: 35px;
+    margin-right: 35px;
     padding-top: 15px;
 }
 
+.firstlandingstory h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 35px;
+}
+
+.narrativelandingstory h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 35px;
+}
+
+.firstlandingstory p {
+    font-family: 'source-serif-pro', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 18px;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 35px;
+}
+
+.narrativelandingstory p {
+    font-family: 'source-serif-pro', serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 18px;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 35px;
+}
+
+
+
+.firstlandingstory2 h1 {
+    font-family: 'Lust', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 50px;
+    padding-bottom: -50px;
+}
+
+.narrativestory2 h1 {
+    font-family: 'Lust', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 50px;
+    padding-bottom: -50px;
+}
+
+.narrativestory3 h1 {
+    font-family: 'Lust', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 50px;
+    padding-bottom: -50px;
+}
+
+.narrativestory4 h1 {
+    font-family: 'Lust', sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 50px;
+    padding-bottom: -50px;
+}
+
+.firstlandingstory2 p {
+    font-family: 'source-serif-pro', serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.narrativestory2 p {
+    font-family: 'source-serif-pro', serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.narrativestory3 p {
+    font-family: 'source-serif-pro', serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.narrativestory4 p {
+    font-family: 'source-serif-pro', serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 15px;
+}
+
+.narrativestory5 p {
+    font-family: 'source-serif-pro', serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.narrativestory5 h1 {
+    font-family: 'Montserrat', serif;
+    font-weight: 100;
+    font-size: 18px;
+    color: rgba(0, 0, 1);
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 10px;
+}
+
+
+.housewides p {
+    font-family: 'Montserrat', serif;
+    font-weight: 100;
+    padding-top: 10px;
+    margin-right: 75px;
+}
+
+.dantable p {
+    font-family: 'Montserrat', serif;
+    font-weight: 100;
+    padding-top: 10px;
+    margin-left: 75px;
+    margin-right: 75px;
+
+}
+
 .landingimage1 {
-    margin-left: 175px;
+    padding-left: 175px;
 
 }
 
 .landingimage1 p {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 100;
-    font-size: 24px;
+    font-size: 16px;
     color: rgba(0, 0, 1);
     margin-right: 55px;
+    padding-bottom: 35px;
+    padding-top: 15px;
 }
 
-.secondlandingstory {
+.krimportrait {
+    padding-left: 250px;
+    padding-bottom: 35px;
+}
+
+.danportraitquote {
+    padding-left: 125px;
+    padding-bottom: 35px;
+
+}
+
+.krimanddan p {
+    font-size: 16px;
     font-family: 'Montserrat', sans-serif;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding-top: 15px;
+}
+
+
+
+.secondlandingstory h1 {
+    font-family: 'Lust', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.secondlandingstory p {
+    font-family: 'source-serif-pro', serif;
     font-weight: 100;
     font-size: 18px;
     color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
-    padding-top: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+
 }
 
-.secondlandingstorypt2 {
+.secondlandingstory h2 {
     font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+    color: #8D3441;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+.secondlandingstoryp2 p {
+    font-family: 'source-serif-pro', serif;
     font-weight: 100;
     font-size: 18px;
     color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
-    padding-top: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+
 }
 
-.secondlandingstorypt3 {
-    font-family: 'Montserrat', sans-serif;
+
+.secondlandingstory2 h1 {
+    font-family: 'Lust', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    color: rgba(0, 0, 1);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.secondlandingstory2 p {
+    font-family: 'source-serif-pro', serif;
     font-weight: 100;
     font-size: 18px;
     color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
-    padding-top: 25px;
-}
-
-.secondlandingstory2 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 100;
-    font-size: 18px;
-    color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
+    margin-left: 300px;
+    margin-right: 300px;
     padding-top: 5px;
     padding-bottom: 15px;
 }
@@ -151,36 +366,140 @@ body {
     margin-right: 55px;
 }
 
-.thirdlandingstory {
+.housewides {
+    margin-left: 90px;
+}
+
+.quote1 h1 {
+    color: #8D3441;
+    font-family: 'Lust', sans-serif;
+    font-size: 48px;
+    font-weight: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 25px;
+
+}
+
+.quote1 p {
+    color: black;
     font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 150px;
+}
+
+.quote1 h1 {
+    color: #8D3441;
+    font-family: 'Lust', sans-serif;
+    font-size: 48px;
+    font-weight: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 25px;
+
+}
+
+.quote2 p {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 150px;
+}
+
+.quote2 h1 {
+    color: #8D3441;
+    font-family: 'Lust', sans-serif;
+    font-size: 48px;
+    font-weight: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 25px;
+
+}
+
+.thirdlandingstory h1 {
+    font-family: 'Lust', sans-serif;
     font-weight: 100;
-    font-size: 18px;
+    font-size: 36px;
     color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
+    margin-left: 300px;
+    margin-right: 300px;
     padding-top: 5px;
 }
 
-.thirdlandingstory2 {
-    font-family: 'Montserrat', sans-serif;
+.thirdlandingstory p {
+    font-family: 'source-serif-pro', serif;
     font-weight: 100;
     font-size: 18px;
     color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
-    padding-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 5px;
 }
 
-.thirdlandingstory3 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 100;
-    font-size: 18px;
-    color: rgba(0, 0, 1);
-    margin-left: 150px;
-    margin-right: 135px;
-    padding-top: 20px;
-    padding-bottom: 100px;
+.bottombuttons {
+    height: 175px;
+    width: 300px;
+    margin-left: 300px;
+    background-color: #8D3441;
 }
+
+.bottombuttons2 {
+    height: 175px;
+    width: 300px;
+    margin-left: 650px;
+    background-color: #8D3441;
+    margin-top: -175px;
+}
+
+.bottombuttons h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    padding-top: 30px;
+}
+
+.bottombuttons2 h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    padding-top: 30px;
+}
+
+.btn {
+    background-color: #BD6D29;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.supporttag {
+    width: 100%;
+    height: 100px;
+    background-color: #BD6D29;
+    padding-top: 25px;
+    margin-top: 100px;
+}
+
+
+.supporttag h1 {
+    font-size: 24px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+
 
 footer {
     position: absolute;
@@ -197,6 +516,9 @@ footer p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     font-size: 18px;
+    text-decoration: underline;
+    text-decoration-color: #BD6D29;
+    color: white;
 }
 
 .gallerytitle h1 {
@@ -213,4 +535,15 @@ footer p {
     text-align: center;
     margin-top: -40px;
     color: #bd6c29;
+}
+
+.inquire p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin-top: -40px;
+    color: #8D3441;
+    padding-top: 35px;
+    padding-bottom: 35px;
+
 }
